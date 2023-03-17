@@ -52,7 +52,7 @@ $$$$P d$$$$F $ $$$$$$$$$- $$$$$$
         "*$c  "$$$$$$$P"
           """*$$$$$$$"
 
-Secret...pick 3 ;)""")
+Secret...pick 3""")
 
 time.sleep(2)
 def menu():
